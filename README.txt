@@ -1,3 +1,5 @@
-Minha primeira aplicação no git.
+Minha primeira aplicação.
 
 Meu segundo commit
+
+Meu terceiro commit
